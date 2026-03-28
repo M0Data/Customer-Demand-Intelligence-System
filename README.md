@@ -38,35 +38,35 @@ This solution answers all five — with data.
 ### Page 1 — Executive Demand Overview
 KPI cards for overdue customers, revenue, and projected pipeline. Revenue by branch, monthly volume trend, and orders by channel.
 
-![Executive Overview]()
+![Executive Overview](01_executive_overview.png)
 
 ---
 
 ### Page 2 — Customer Reorder Predictor
 Predicts the next order date for every customer based on their individual reorder cycle. Priority table sorted by urgency — most overdue first — with colour-coded status badges.
 
-![Customer Reorder Predictor](screenshots/02_customer_reorder_predictor.png)
+![Customer Reorder Predictor](02_customer_reorder_predictor.png)
 
 ---
 
 ### Page 3 — Size & Quantity Profile
 100% stacked bar showing each customer's size preference mix. Size preference heatmap. Min / Avg / Max quantity reference table per customer per size.
 
-![Size & Quantity Profile](screenshots/03_size_quantity_profile.png)
+![Size & Quantity Profile](03_size_quantity_profile.png)
 
 ---
 
 ### Page 4 — Seasonality & Demand Planning
 Monthly clustered column chart comparing 2023 vs 2024. Quarterly demand heatmap by product. Year-on-year comparison and demand highlight cards.
 
-![Seasonality & Demand](screenshots/04_seasonality_demand.png)
+![Seasonality & Demand](04_seasonality_demand.png)
 
 ---
 
 ### Page 5 — Inventory Risk & Reorder Planner
 Full inventory risk table: CRITICAL · WARNING · MONITOR · ADEQUATE per product/size. Stock vs Reorder Point chart. Demand velocity heatmap.
 
-![Inventory Reorder Planner](screenshots/05_inventory_reorder_planner.png)
+![Inventory Reorder Planner](05_inventory_reorder_planner.png)
 
 ---
 
